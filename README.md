@@ -2,7 +2,7 @@
 
 ## 🚀 Boost agent performance and improve customer satisfaction with interactive dashboards.
 
-![Call Center Trends Dashboard](Call_center_trends_manager.png)
+![Call Center Trends Dashboard](Call center trends manager.png)
 
 ---
 
